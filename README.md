@@ -1,4 +1,4 @@
-### Opa! Me chamo José Gabriel
+### Olá! Me chamo José Gabriel
 
  Atualmente trabalho com Front-end, e estou estudando JavaScript e TypeScript
 
