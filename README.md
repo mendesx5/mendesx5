@@ -1,6 +1,6 @@
 ### Olá! Me chamo José Gabriel
 
- Atualmente trabalho com Front-end, e estou estudando JavaScript e TypeScript
+ Atualmente trabalho com Dados, e estou estudando Python.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Biel-py" height="30" width="40" src="">
