@@ -3,9 +3,8 @@
  Atualmente trabalho com Dados, e estou estudando Python.
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Biel-py" height="30" width="40" src="">
-  <img align="center" alt="Biel-1" height="30" width="40" src="">
-  <img align="center" alt="Biel-2" height="30" width="40" src="">
+   <img align="center" alt="Biel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
   ##
