@@ -1,6 +1,6 @@
 ### Olá! Me chamo José Gabriel
 
- Atualmente trabalho com Dados, e estou estudando Python.
+ Atualmente estou estudando as linguagens Javascript e Typescript para front, e inicando iniciando no back
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Biel-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
