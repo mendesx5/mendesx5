@@ -1,7 +1,7 @@
 # 🧸 Olá! Me chamo José Gabriel<br>
 <div>
-  <p>Sou Desenvolvedor Front-end, sempre motivado a criar interfaces bonitas, responsivas e interativas. Tenho como objetivo, construir uma carreira sólida na programação e contribuir com projetos desafiadores.</p>
-  <img src="">
+  <p>Sou Desenvolvedor Front-end, sempre motivado a criar interfaces bonitas, <br> responsivas e interativas. Tenho como objetivo, construir uma carreira sólida <br> na programação e contribuir com projetos desafiadores.</p>
+  <img src="img.jpg" width="200px">
 </div>
 
 ## 🌐 Social:
