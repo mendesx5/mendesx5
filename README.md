@@ -1,5 +1,8 @@
 # 🧸 Olá! Me chamo José Gabriel<br>
-
+<div style="display: flex; align-items: center;">
+  <p style="margin-right: 20px;">Sou Desenvolvedor Front-end, sempre motivado a criar interfaces bonitas, <br> responsivas e interativas. Tenho como objetivo, construir uma carreira sólida <br> na programação e contribuir com projetos desafiadores.</p>
+  <img src="img.jpg" width="200px">
+</div>
 ## 🌐 Social:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__mendesx5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmendes2208/) 
 ## 🖥 Tech:
