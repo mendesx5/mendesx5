@@ -1,4 +1,4 @@
-# 🧸 Olá! Me chamo José Gabriel<br>
+# 🧸 Olá! Me chamo Gabriel Mendes<br>
 
 Sou Desenvolvedor Front-end, sempre motivado a criar interfaces bonitas, responsivas e interativas. Tenho como objetivo, construir uma carreira sólida na programação e contribuir com projetos desafiadores.
 
