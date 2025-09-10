@@ -20,6 +20,7 @@ Meu objetivo é me desenvolver cada vez mais na área de programação, sempre b
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=mendesx5&show_icons=true&theme=tokyonight&include_all_commits=true"
   />
+  
   <img
     align="left"
     alt="Tecnologias"
