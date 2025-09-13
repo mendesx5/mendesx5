@@ -1,15 +1,17 @@
 # 👨🏽‍💻 Gabriel Mendes<br>
 
-Olá, sou Gabriel Mendes, tenho 19 anos e sou natural do Rio Grande do Norte. Atualmente estou cursando Ciências e Tecnologia na UFRN para seguir carreira para Engenharia da Computação. Fora a faculdade estudo Desenvolvimento Back-end, com foco em Python e Django.
-Atualmente, além de Python e Django, também estou trabalhando com bancos de dados relacionais, utilizando PostgreSQL e também MySQL.
+Sou Gabriel Mendes, 19 anos, do Rio Grande do Norte.
+Atualmente curso Ciências e Tecnologia na UFRN, com foco em seguir para Engenharia da Computação.
 
-Meu objetivo é me desenvolver cada vez mais na área de programação, sempre buscando aprimorar meus conhecimentos e evoluir como profissional. Estou constantemente estudando novas tecnologias e boas práticas para construir sistemas robustos, escaláveis e de qualidade.
+Tenho me dedicado ao estudo de Data Science com Python (Pandas) e Desenvolvimento Back-end com Python e Django, além de trabalhar com bancos de dados relacionais (PostgreSQL).
+
+Meu objetivo é evoluir continuamente como desenvolvedor, aplicando boas práticas e explorando novas tecnologias para criar sistemas robustos, escaláveis e de qualidade.
 
 ## 🌐 Social:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__gabrielmendesx/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmendes06/) 
 
 ## 🖥 Tech:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&style=for-the-badge&logoColor=4479A1) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=for-the-badge&logo=pandas) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&style=for-the-badge&logoColor=4479A1) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
 # 📊 GitHub Stats:
 <p>
