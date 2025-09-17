@@ -1,7 +1,5 @@
 # 👨🏽‍💻 Gabriel Mendes<br>
 
-oxi
-
 Sou Gabriel Mendes, 19 anos, do Rio Grande do Norte.
 Atualmente curso Ciências e Tecnologia na UFRN, com foco em seguir para Engenharia da Computação.
 
