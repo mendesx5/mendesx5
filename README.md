@@ -1,9 +1,9 @@
 # 👨🏽‍💻 Gabriel Mendes<br>
 
 Sou Gabriel Mendes, 19 anos, do Rio Grande do Norte.
-Atualmente curso Ciências e Tecnologia na UFRN, com foco em seguir para Engenharia da Computação.
+Atualmente curso Ciências e Tecnologia na UFRN, com foco em migrar para Engenharia de Software.
 
-Tenho me dedicado ao estudo de Data Science com Python (Pandas) e Desenvolvimento Back-end com Python e Django, além de trabalhar com bancos de dados relacionais (PostgreSQL).
+Tenho me dedicado ao estudo de Desenvolvimento Back-end com Java.
 
 Meu objetivo é evoluir continuamente como desenvolvedor, aplicando boas práticas e explorando novas tecnologias para criar sistemas robustos, escaláveis e de qualidade.
 
@@ -11,9 +11,49 @@ Meu objetivo é evoluir continuamente como desenvolvedor, aplicando boas prátic
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__gabrielmendesx/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmendes06/) 
 
 ## 🖥 Tech:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=for-the-badge&logo=pandas) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&style=for-the-badge&logoColor=4479A1) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
-# 📊 GitHub Stats:
+<img
+  align="left"
+  alt="Java"
+  title="Java"
+  width="30px"
+  style="paddingg-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+<img
+  align="left"
+  alt="spring"
+  title="spring"
+  width="30px"
+  style="paddingg-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+/>
+<img
+  align="left"
+  alt="python"
+  title="python"
+  width="30px"
+  style="paddingg-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+<img
+  align="left"
+  alt="mysql"
+  title="mysql"
+  width="30px"
+  style="paddingg-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+<img
+  align="left"
+  alt="docker"
+  title="docker"
+  width="30px"
+  style="paddingg-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+/>
+
+## 📊 GitHub Stats:
 <p>
   <img
     align="left"
