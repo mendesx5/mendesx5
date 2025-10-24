@@ -22,36 +22,38 @@ Meu objetivo é evoluir continuamente como desenvolvedor, aplicando boas prátic
 />
 <img
   align="left"
-  alt="spring"
-  title="spring"
+  alt="Spring"
+  title="Spring"
   width="30px"
   style="paddingg-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
 />
 <img
   align="left"
-  alt="python"
-  title="python"
+  alt="Python"
+  title="Python"
   width="30px"
   style="paddingg-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 <img
   align="left"
-  alt="mysql"
-  title="mysql"
+  alt="Mysql"
+  title="Mysql"
   width="30px"
   style="paddingg-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 <img
   align="left"
-  alt="docker"
-  title="docker"
+  alt="Docker"
+  title="Docker"
   width="30px"
   style="paddingg-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
 />
+
+<br><br>
 
 ## 📊 GitHub Stats:
 <p>
