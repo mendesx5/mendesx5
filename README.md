@@ -1,16 +1,16 @@
 # 👨🏽‍💻 Gabriel Mendes<br>
 
-Sou Gabriel Mendes, 19 anos, do Rio Grande do Norte.
-Atualmente curso Ciências e Tecnologia na UFRN, com foco em migrar para Engenharia de Software.
+Hi, i'm Gabriel Mendes, Backend Developer in Progress  <strong>🇧🇷</strong> <br>
 
-Tenho me dedicado ao estudo de Desenvolvimento Back-end com Java.
-
-Meu objetivo é evoluir continuamente como desenvolvedor, aplicando boas práticas e explorando novas tecnologias para criar sistemas robustos, escaláveis e de qualidade.
+##  About me:
+I am a backend developer currently focused on strengthening my skills in <strong>Java and Spring Boot</strong>, building solid and maintainable backend applications.<br><br>
+My next step is expanding into <strong>Cloud Computing</strong>, with strong interest in technologies such as <strong>AWS</strong>, aiming to design scalable and production-ready systems.<br><br>
+I believe in long-term growth, discipline, and mastering the fundamentals before pursuing complexity. For me, strong foundations are what enable building reliable and impactful software.
 
 ## 🌐 Social:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__gabrielmendesx/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmendes06/) 
 
-## 🖥 Tech:
+## 🖥 My main Stacks:
 
 <img
   align="left"
@@ -30,19 +30,19 @@ Meu objetivo é evoluir continuamente como desenvolvedor, aplicando boas prátic
 />
 <img
   align="left"
-  alt="Python"
-  title="Python"
+  alt="AWS"
+  title="AWS"
   width="30px"
   style="paddingg-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
 />
 <img
   align="left"
-  alt="Mysql"
-  title="Mysql"
+  alt="PostgreSQL"
+  title="PostgreSQL"
   width="30px"
   style="paddingg-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
 <img
   align="left"
@@ -52,24 +52,12 @@ Meu objetivo é evoluir continuamente como desenvolvedor, aplicando boas prátic
   style="paddingg-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
 />
-
-<br><br>
-
-## 📊 GitHub Stats:
-<p>
-  <img
-    align="left"
-    alt="GitHub Status"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=mendesx5&show_icons=true&theme=tokyonight&include_all_commits=true"
-  />
-  
-  <img
-    align="left"
-    alt="Tecnologias"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendesx5&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
+<img
+  align="left"
+  alt="Git"
+  title="Git"
+  width="30px"
+  style="paddingg-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
 </p>
