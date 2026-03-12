@@ -1,6 +1,25 @@
 # 👨🏽‍💻 Gabriel Mendes<br>
 
-Hi, i'm Gabriel Mendes, Backend Developer in Progress  <strong>🇧🇷</strong> <br>
+Hi, i'm Gabriel Mendes, Backend Developer
+
+<img
+  align="left"
+  alt="Brazil"
+  title="Brazil"
+  width="30px"
+  style="paddingg-right: 10px;"
+  src="https://img.icons8.com/color/48/brazil-circular.png"
+/>
+<img
+  align="left"
+  alt="Canada"
+  title="Canada"
+  width="30px"
+  style="paddingg-right: 10px;"
+  src="https://img.icons8.com/color/48/canada-circular.png"
+/>
+
+<br>
 
 ##  About me:
 I am a backend developer currently focused on strengthening my skills in <strong>Java and Spring Boot</strong>, building solid and maintainable backend applications.<br><br>
