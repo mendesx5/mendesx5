@@ -80,7 +80,9 @@ I believe in long-term growth, discipline, and mastering the fundamentals before
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
 
-<br>
+<br> <br>
+
+## 🐈‍⬛ Github Status:
 
 <img>
 
