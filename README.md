@@ -8,6 +8,20 @@ Sou um desenvolvedor backend atualmente focado em fortalecer minhas habilidades 
 Meu próximo passo é expandir para Computação em Nuvem (Cloud Computing), com grande interesse em tecnologias como AWS, visando projetar sistemas escaláveis e prontos para produção.<br><br>
 Acredito no crescimento a longo prazo, na disciplina e no domínio dos fundamentos antes de buscar a complexidade. Para mim, bases sólidas são o que permitem construir softwares confiáveis e de impacto.
 
+<p> 
+  Além desas stcks, estou trabalhando em desenvolver o meu inglês, com objetivo de chegar ao nível B2.
+  <img
+    src="https://img.icons8.com/color/48/canada-circular.png"
+    width="25"
+    align="absmiddle"
+    style="margin-left: 5px;">
+  <img
+    src="https://img.icons8.com/color/48/usa-circular.png"
+    width="25"
+    align="absmiddle"
+    style="margin-left: 5px;">
+</p>
+
 ## 🌐 Social:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__gabrielmendesx/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmendes06/) 
 
