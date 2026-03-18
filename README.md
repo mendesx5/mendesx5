@@ -1,30 +1,12 @@
 # 👨🏽‍💻 Gabriel Mendes<br>
 
-Hi, i'm Gabriel Mendes, Backend Developer focused on <strong>Java</strong>, <strong>Spring Boot</strong> and scalable backend systems. <strong></strong>
-
-<p>
-  From 
-  <img
-    src="https://img.icons8.com/color/48/brazil-circular.png"
-    width="25"
-    align="absmiddle"
-    style="margin-left: 5px;">
-  
-</p>
-<p>
-  Future goal: 
-  <img
-    src="https://img.icons8.com/color/48/canada-circular.png"
-    width="25"
-    align="absmiddle"
-    style="margin-left: 5px;">
-</p>
+Olá, eu sou Gabriel Mendes, desenvolvedor Backend <strong>Java</strong> e <strong>Spring Boot</strong>. Além do Backend, tenho muito interesse em <strong>Cloud</strong> e pretendo seguir para essa área futuramente.
 
 
 ##  About me:
-I am a backend developer currently focused on strengthening my skills in <strong>Java and Spring Boot</strong>, building solid and maintainable backend applications.<br><br>
-My next step is expanding into <strong>Cloud Computing</strong>, with strong interest in technologies such as <strong>AWS</strong>, aiming to design scalable and production-ready systems.<br><br>
-I believe in long-term growth, discipline, and mastering the fundamentals before pursuing complexity. For me, strong foundations are what enable building reliable and impactful software.
+Sou um desenvolvedor backend atualmente focado em fortalecer minhas habilidades em Java e Spring Boot, construindo aplicações backend sólidas e de fácil manutenção.<br><br>
+Meu próximo passo é expandir para Computação em Nuvem (Cloud Computing), com grande interesse em tecnologias como AWS, visando projetar sistemas escaláveis e prontos para produção.<br><br>
+Acredito no crescimento a longo prazo, na disciplina e no domínio dos fundamentos antes de buscar a complexidade. Para mim, bases sólidas são o que permitem construir softwares confiáveis e de impacto.
 
 ## 🌐 Social:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__gabrielmendesx/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmendes06/) 
