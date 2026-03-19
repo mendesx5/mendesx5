@@ -3,9 +3,9 @@
 Olá, eu sou Gabriel Mendes, desenvolvedor Backend <strong>Java</strong> e <strong>Spring Boot</strong>. Além do Backend, tenho muito interesse em <strong>Cloud</strong> e pretendo seguir para essa área futuramente.
 
 
-##  About me:
-Sou um desenvolvedor backend atualmente focado em fortalecer minhas habilidades em Java e Spring Boot, construindo aplicações backend sólidas e de fácil manutenção.<br><br>
-Meu próximo passo é expandir para Computação em Nuvem (Cloud Computing), com grande interesse em tecnologias como AWS, visando projetar sistemas escaláveis e prontos para produção.<br><br>
+##  Sobre:
+Sou um desenvolvedor backend atualmente focado em fortalecer minhas habilidades em <strong>Java</strong> e <strong>Spring Boot</strong>, construindo aplicações backend sólidas e de fácil manutenção.<br>
+Meu próximo passo é expandir para Computação em Nuvem (Cloud Computing), com grande interesse em tecnologias como AWS, visando projetar sistemas escaláveis e prontos para produção.<br>
 Acredito no crescimento a longo prazo, na disciplina e no domínio dos fundamentos antes de buscar a complexidade. Para mim, bases sólidas são o que permitem construir softwares confiáveis e de impacto.
 
 <p> 
@@ -25,7 +25,7 @@ Acredito no crescimento a longo prazo, na disciplina e no domínio dos fundament
 ## 🌐 Social:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__gabrielmendesx/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmendes06/) 
 
-## 🖥 My main Stacks:
+## 🖥 Linguagens e Tecnologias:
 
 <img
   align="left"
@@ -79,11 +79,9 @@ Acredito no crescimento a longo prazo, na disciplina e no domínio dos fundament
 <br> <br>
 
 ## 🐈‍⬛ Github Status:
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mendesx5&show_icons=true&theme=synthwave">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendesx5&layout=compact&theme=synthwave">
+</div>
 
-<img>
 
-  ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mendesx5&show_icons=true&theme=synthwave)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mendesx5&layout=compact&theme=synthwave)
-  
-</img>
