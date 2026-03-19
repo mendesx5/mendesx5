@@ -80,8 +80,8 @@ Acredito no crescimento a longo prazo, na disciplina e no domínio dos fundament
 
 ## 🐈‍⬛ Github Status:
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mendesx5&show_icons=true&theme=synthwave">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendesx5&layout=compact&theme=synthwave">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mendesx5&show_icons=true&theme=synthwave">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendesx5&layout=compact&theme=synthwave">
 </div>
 
 
