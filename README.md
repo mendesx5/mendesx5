@@ -45,19 +45,19 @@ Acredito no crescimento a longo prazo, na disciplina e no domínio dos fundament
 />
 <img
   align="left"
-  alt="PostgreSQL"
-  title="PostgreSQL"
-  width="30px"
-  style="paddingg-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-/>
-<img
-  align="left"
   alt="AWS"
   title="AWS"
   width="30px"
   style="paddingg-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+/>
+<img
+  align="left"
+  alt="PostgreSQL"
+  title="PostgreSQL"
+  width="30px"
+  style="paddingg-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
 <img
   align="left"
@@ -80,8 +80,6 @@ Acredito no crescimento a longo prazo, na disciplina e no domínio dos fundament
 
 ## 🐈‍⬛ Github Status:
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mendesx5&show_icons=true&theme=synthwave">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendesx5&layout=compact&theme=synthwave">
+  <img height="160em" src="">
+  <img height="160em" src="">
 </div>
-
-
