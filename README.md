@@ -78,8 +78,7 @@ Acredito no crescimento a longo prazo, na disciplina e no domínio dos fundament
 
 <br> <br>
 
-## 🐈‍⬛ Github Status:
-<div>
-  <img height="160em" src="">
-  <img height="160em" src="">
-</div>
+## 📊 Github Status:
+![](https://github-readme-stats.vercel.app/api?username=mendesx5&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mendesx5&theme=jolly&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mendesx5&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
