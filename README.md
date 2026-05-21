@@ -45,19 +45,19 @@ Acredito no crescimento a longo prazo, na disciplina e no domínio dos fundament
 />
 <img
   align="left"
-  alt="MySQL"
-  title="MySQL"
-  width="30px"
-  style="paddingg-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
-<img
-  align="left"
   alt="PostgreSQL"
   title="PostgreSQL"
   width="30px"
   style="paddingg-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
+<img
+  align="left"
+  alt="MySQL"
+  title="MySQL"
+  width="30px"
+  style="paddingg-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 <img
   align="left"
@@ -69,22 +69,12 @@ Acredito no crescimento a longo prazo, na disciplina e no domínio dos fundament
 />
 <img
   align="left"
-  alt="AWS"
-  title="AWS"
+  alt="AngularJS"
+  title="AngularJS"
   width="30px"
   style="paddingg-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg"
 />
-
-  <img
-    align="left"
-    alt="AngularJS"
-    title="AngularJS"
-    width="30px"
-    style="paddingg-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg"
-  />
-          
 <img
   align="left"
   alt="Git"
@@ -93,7 +83,6 @@ Acredito no crescimento a longo prazo, na disciplina e no domínio dos fundament
   style="paddingg-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
-
 
 <br> <br>
 
