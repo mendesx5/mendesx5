@@ -11,11 +11,6 @@ Acredito no crescimento a longo prazo, na disciplina e no domínio dos fundament
 <p> 
   Além desas stcks, estou trabalhando em desenvolver o meu inglês, com objetivo de chegar ao nível B2.
   <img
-    src="https://img.icons8.com/color/48/canada-circular.png"
-    width="25"
-    align="absmiddle"
-    style="margin-left: 5px;">
-  <img
     src="https://img.icons8.com/color/48/usa-circular.png"
     width="25"
     align="absmiddle"
