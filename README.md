@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Gabriel Mendes<br>
 
-Olá, eu sou Gabriel Mendes, desenvolvedor Backend <strong>Java</strong> e <strong>Spring Boot</strong>. Além do Backend, tenho muito interesse em <strong>Cloud</strong> e pretendo seguir para essa área futuramente.
+Olá, eu sou Gabriel Mendes, desenvolvedor Backend <strong>Java</strong> e <strong>Spring Boot</strong> e estudante de Ciência da Computação. Além do Backend, tenho muito interesse em <strong>Cloud</strong> e pretendo seguir para essa área futuramente.
 
 
 ##  Sobre:
