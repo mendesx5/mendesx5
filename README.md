@@ -64,35 +64,35 @@ Acredito no crescimento a longo prazo, na disciplina e no domínio dos fundament
 />
 <img
   align="left"
-  alt="React"
-  title="React"
+  alt="Python"
+  title="Python"
   width="30px"
   style="paddingg-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 <img
   align="left"
-  alt="React"
-  title="React"
+  alt="JavaScript"
+  title="JavaScript"
   width="30px"
   style="paddingg-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"
 />
 <img
   align="left"
-  alt="HTML"
-  title="HTML"
+  alt="TypeScript"
+  title="TypeScript"
   width="30px"
   style="paddingg-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg"
 />
 <img
   align="left"
-  alt="CSS"
-  title="CSS"
+  alt="React"
+  title="React"
   width="30px"
   style="paddingg-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
 />
 <img
   align="left"
