@@ -20,7 +20,7 @@ Acredito no crescimento a longo prazo, na disciplina e no domínio dos fundament
 ## 🌐 Social:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__gabrielmendesx/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmendes06/) 
 
-## 🖥 Linguagens e Tecnologias:
+## 🖥 Skills and Tools:
 
 <img
   align="left"
@@ -37,6 +37,14 @@ Acredito no crescimento a longo prazo, na disciplina e no domínio dos fundament
   width="30px"
   style="paddingg-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+/>
+<img
+  align="left"
+  alt="AWS"
+  title="AWS"
+  width="30px"
+  style="paddingg-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
 />
 <img
   align="left"
@@ -102,6 +110,8 @@ Acredito no crescimento a longo prazo, na disciplina e no domínio dos fundament
   style="paddingg-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
+
+
 
 <br> <br>
 
