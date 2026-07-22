@@ -1,27 +1,25 @@
-# 👨🏽‍💻 Gabriel Mendes<br>
+<h3> Hi! I'm Gabriel Mendes! </h3>
 
-Olá, eu sou Gabriel Mendes, desenvolvedor Backend <strong>Java</strong> e <strong>Spring Boot</strong> e estudante de Ciência da Computação. Além do Backend, tenho muito interesse em <strong>Cloud</strong> e pretendo seguir para essa área futuramente.
+`Backend Developer` · `Software Engineer`
 
+<table>
+  <tr>
+    <td>
+      <i> Backend Developer with experience in projects for
+        real clients and personal projects. Computer Science
+        student at UnP. </i>
+      <br> <br>
+      <i> Some of my main projects are Dentico, Reservas-api, and VetAgenda. </i>
+    </td>
+    <td>
+      <img src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/Fire-Pixel.gif" width="220">
+    </td>
+  </tr>
+</table>
 
-##  Sobre:
-Sou um desenvolvedor backend atualmente focado em fortalecer minhas habilidades em <strong>Java</strong> e <strong>Spring Boot</strong>, construindo aplicações backend sólidas e de fácil manutenção.<br>
-Meu próximo passo é expandir para Computação em Nuvem (Cloud Computing), com grande interesse em tecnologias como AWS, visando projetar sistemas escaláveis e prontos para produção.<br>
-Acredito no crescimento a longo prazo, na disciplina e no domínio dos fundamentos antes de buscar a complexidade. Para mim, bases sólidas são o que permitem construir softwares confiáveis e de impacto.
+---
 
-<p> 
-  Além desas stcks, estou trabalhando em desenvolver o meu inglês, com objetivo de chegar ao nível B2.
-  <img
-    src="https://img.icons8.com/color/48/usa-circular.png"
-    width="25"
-    align="absmiddle"
-    style="margin-left: 5px;">
-</p>
-
-## 🌐 Social:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__gabrielmendesx/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmendes06/) 
-
-## 🖥 Skills and Tools:
-
+### Skills and Tools:
 <img
   align="left"
   alt="Java"
@@ -110,12 +108,16 @@ Acredito no crescimento a longo prazo, na disciplina e no domínio dos fundament
   style="paddingg-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
+<br>
 
+---
 
+### Social:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__gabrielmendesx/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmendes06/) 
 
-<br> <br>
+---
 
-## 📊 Github Status:
+### 📊 Github Status:
 ![](https://github-readme-stats.vercel.app/api?username=mendesx5&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mendesx5&theme=jolly&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mendesx5&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
