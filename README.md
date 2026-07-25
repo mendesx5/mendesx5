@@ -79,30 +79,6 @@
 />
 <img
   align="left"
-  alt="JavaScript"
-  title="JavaScript"
-  width="30px"
-  style="paddingg-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"
-/>
-<img
-  align="left"
-  alt="TypeScript"
-  title="TypeScript"
-  width="30px"
-  style="paddingg-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg"
-/>
-<img
-  align="left"
-  alt="React"
-  title="React"
-  width="30px"
-  style="paddingg-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-/>
-<img
-  align="left"
   alt="Git"
   title="Git"
   width="30px"
