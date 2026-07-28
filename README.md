@@ -10,7 +10,7 @@
         real clients and personal projects. Computer Science
         student at UnP. </i>
       <br> <br>
-      <i> Some of my main projects are Dentico, Reservas-api, and VetAgenda. </i>
+      <i> Some of my main projects are CheckInHub, Dentico, Reservas-api, and VetAgenda. </i>
     </td>
     <td>
       <img src="https://github.com/mendesx5/mendesx5/blob/main/Fire-Pixel.gif" width="280">
