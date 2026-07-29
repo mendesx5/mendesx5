@@ -6,11 +6,14 @@
   <tr>
     <td>
      <h3> About me: </h3>
-      <i> Backend Developer with experience in projects for
-        real clients and personal projects. Computer Science
-        student at UnP. </i>
+      <i> Backend Java Developer and Computer Science student focused on building
+      REST APIs and business applications with Java, Spring Boot and PostgreSQL.
+      I have hands-on experience developing complete systems, including a
+      reservation platform delivered to a real client, with authentication,
+      payment integration, business rules and production deployment.
+      Currently improving my skills in automated testing, Docker, CI/CD and AWS.</i>
       <br> <br>
-      <i> Some of my main projects are CheckInHub, Dentico, Reservas-api, and VetAgenda. </i>
+      <i> Some of my main projects are CheckInHub, OdontoSystem, Reservas-api and VetAgenda. </i>
     </td>
     <td>
       <img src="https://github.com/mendesx5/mendesx5/blob/main/Fire-Pixel.gif" width="280">
