@@ -12,8 +12,6 @@
       integrates a Java/Spring Boot service with a Python/FastAPI microservice via RabbitMQ.
       Currently deepening System Design, Design Patterns, Python and LLMs, alongside AWS fundamentals.
       Some of my main projects: rag-assistant (Java + Python, RAG/LLM system, in progress), CheckInHub, OdontoSystem and Reservas-api.</i>
-      <br> <br>
-      <i> Some of my main projects are CheckInHub, OdontoSystem, Reservas-api and VetAgenda. </i> 
     </td>
     <td>
       <img src="https://github.com/mendesx5/mendesx5/blob/main/Fire-Pixel.gif" width="280">
@@ -106,21 +104,12 @@
 />
 <img
   align="left"
-  alt="MySQL"
-  title="MySQL"
-  width="30px"
-  style="paddingg-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
-<img
-  align="left"
   alt="Docker"
   title="Docker"
   width="30px"
   style="paddingg-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
 />
-
 <img
   align="left"
   alt="Git"
