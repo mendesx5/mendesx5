@@ -6,14 +6,14 @@
   <tr>
     <td>
      <h3> About me: </h3>
-      <i> Backend Java Developer and Computer Science student focused on building
-      REST APIs and business applications with Java, Spring Boot and PostgreSQL.
-      I have hands-on experience developing complete systems, including a
-      reservation platform delivered to a real client, with authentication,
-      payment integration, business rules and production deployment.
-      Currently improving my skills in automated testing, Docker, CI/CD and AWS.</i>
+      <i>Backend Java Developer and Computer Science student, focused on building REST APIs with Java, Spring Boot and PostgreSQL.
+      I've built several complete systems covering business rules, authentication/authorization (JWT) and API documentation,
+      and I'm currently expanding into AI Engineering - building a distributed RAG (Retrieval-Augmented Generation) system that
+      integrates a Java/Spring Boot service with a Python/FastAPI microservice via RabbitMQ.
+      Currently deepening System Design, Design Patterns, Python and LLMs, alongside AWS fundamentals.
+      Some of my main projects: rag-assistant (Java + Python, RAG/LLM system, in progress), CheckInHub, OdontoSystem and Reservas-api.</i>
       <br> <br>
-      <i> Some of my main projects are CheckInHub, OdontoSystem, Reservas-api and VetAgenda. </i>
+      <i> Some of my main projects are CheckInHub, OdontoSystem, Reservas-api and VetAgenda. </i> 
     </td>
     <td>
       <img src="https://github.com/mendesx5/mendesx5/blob/main/Fire-Pixel.gif" width="280">
