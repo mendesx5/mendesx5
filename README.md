@@ -117,7 +117,16 @@
   style="paddingg-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
-<br> <br>
+
+<br></br>
+
+<h3> Artificial Intelligence: </h3>
+
+[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
+[![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
+[![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)](#)
+[![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white)](#)
 
 ---
 
@@ -128,8 +137,7 @@
 
 ---
 
-<h3> 📊 Github Status: </h3>
+<h3> Github Status: </h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=mendesx5&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mendesx5&theme=jolly&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mendesx5&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
